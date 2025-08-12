@@ -80,7 +80,7 @@ body {
 .main-content {
   flex: 1;
   padding: 40px;
-  background: #b8b8b8;
+  background: #e0e0e0;
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   overflow-x: auto;
